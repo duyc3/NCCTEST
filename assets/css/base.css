@@ -1,0 +1,13 @@
+:root{
+    --text: #000000;
+    --secondary:  #EFEFEF;
+    --black: #191718;
+}
+
+html,body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
